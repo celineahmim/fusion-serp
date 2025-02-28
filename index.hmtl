@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Fusion SERP - Backend</title>
+</head>
+<body>
+    <h1>Serveur Flask en ligne !</h1>
+</body>
+</html>
